@@ -6,14 +6,14 @@ import java.awt.image.BufferedImage;
  * MovieTicketApp.java
  * CSC 1102 Practical Exam Project - Movie Ticket Booking System
  *
- *   Group name: ____________________
+ *   Group name: Group 7
  *   Members:
  *     1. Benjamin Benge       26/U/31392/EVE
  *     2. Kirungi Jonah        26/U/03535/PSA
  *     3. Ssekide Isma         26/U/03639/PSA
  *     4. Apio Immaculate      26/U/03488/PSA
  *     5. Mirembe Patricia     26/U/03568/PSA
- *   GitHub repository: ______________________________________
+ *   GitHub repository: https://github.com/BenjaminBenge/GalaxyMoviesGroup7
  *
  * A simple Swing application that lets a customer browse upcoming
  * blockbuster movies and book tickets for them.
